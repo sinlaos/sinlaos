@@ -7,9 +7,9 @@ $ pkg install git
 
 $ python3 -m pip install requests
 
-$ git clone https://github.com/sinlaos/iamfromlaos/
+$ git clone https://github.com/sinlaos
 
-$ cd sinsms
+$ cd sinlaos
 
 $ python3 spam.py
 <!--

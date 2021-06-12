@@ -1,6 +1,6 @@
 ###
 
-pkg ติดตั้ง python
+$ pkg install python
 $ pkg install python
 
 $ pkg install git
